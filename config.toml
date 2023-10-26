@@ -8,17 +8,23 @@ defaultContentLanguage = "en"
     author.name = "Mijux"
     description = "This wiki explains how to use AutomA software and how to contribute to it."
 
-    themeVariant = ["blue", "zen-light", "zen-dark"]
+    themeVariant = ["zen-light", "blue", "zen-dark"]
     themeVariantAuto = [ "zen-light", "zen-dark" ]
 
     alwaysopen = true
     externalLinkTarget = "_blank"
+    disableLandingPageButton = true
 
     [params.imageEffects]
         border = false
         lightbox = true
         shadow = false
 
+[menu]
+    [[menu.shortcuts]]
+        name = "<i class='fab fa-fw fa-github'></i>GitHub"
+        url = "https://github.com/Autom-A"
+        weight = 10
 
 [outputs]
     home = ["HTML", "RSS", "PRINT", "SEARCH"]
