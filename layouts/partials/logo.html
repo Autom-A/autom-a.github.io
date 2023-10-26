@@ -1,1 +1,9 @@
-<a href="/"><img src="/images/logo.png" alt="AutomA-Logo" /></a>
+<a id="link-to-home"><img src="/images/logo.png" alt="AutomA-Logo" /></a>
+
+<script>
+let linkEl = document.getElementById("link-to-home");
+let actualLang = document.getRootNode().documentElement.lang;
+
+if (actualLang != "en") linkEl.href = `/${actualLang}`;
+else linkEl.href = "/";
+</script>
