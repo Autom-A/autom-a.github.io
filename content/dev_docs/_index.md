@@ -1,7 +1,7 @@
 +++
 archetype = "chapter"
 title = "Developpers Docs"
-weight = 0
+weight = 2
 +++
 
 Lorem Ipsum.
