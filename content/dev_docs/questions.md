@@ -1,3 +1,9 @@
+---
+title: "Questions"
+date: 2023-11-65T16:31:13+02:00
+draft: false
+---
+
 # questions.yml
 
 This file contain the specification of the useful variables for the playbook jinja template.
