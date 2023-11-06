@@ -4,9 +4,9 @@ date: 2023-11-65T16:31:13+02:00
 draft: false
 ---
 
-This file contain the specification of the useful variables for the playbook jinja template.
+Cette page contient les spécifications des types de variable utilisés dans les template jinja de playbook.
 
-## Example
+## Exemple
 
 ```yml
 ---
