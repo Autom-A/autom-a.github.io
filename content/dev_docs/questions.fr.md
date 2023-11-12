@@ -60,7 +60,8 @@ questions:
 
 ## Types
 
-| Type    | Description       |
-|---------|-------------------|
-| str     | Basic string type |
-| list<x> | List of type x    |
+| Type                   | Description                          |
+|------------------------|--------------------------------------|
+| `str`                  | Simple chaine de caractères          |
+| `list<x>`              | Liste de type x                      |
+| `choice<x>[y1,y2,...]` | Liste de choix y1, y2, ... de type x |
