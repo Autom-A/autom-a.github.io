@@ -1,5 +1,5 @@
 ---
-title: "Playbook"
+title: "Fichier playbook.yml.j2"
 date: 2023-10-25T16:31:13+02:00
 draft: false
 ---
@@ -10,7 +10,7 @@ Les playbooks sont des modèles Jinja de playbooks Ansible. Cela nous permet de 
 
 ```yml
 ---
-- name: "Example rule"
+- name: "R30_Disable_User"
   hosts: "all"
 
   tasks:

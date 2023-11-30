@@ -1,6 +1,6 @@
 +++
 archetype = "chapter"
-title = "Deploy Guide"
+title = "Guide de déloiements"
 weight = 3
 +++
 

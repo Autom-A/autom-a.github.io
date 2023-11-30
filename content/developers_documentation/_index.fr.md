@@ -1,7 +1,10 @@
 +++
 archetype = "chapter"
-title = "Doc Développeurs"
+title = "Documentation Développeurs"
 weight = 2
 +++
 
-Cette documentation a pour but d'expliquer aux développeurs comment ajouter leurs propres règles, et comment étendre le coeur d'AutomA.
+Vous trouverez deux grandes parties dans cette documentation, la première traite de la gestion et création des playbooks, la deuxième partie, quand à elle, traite de l'architecture logiciel et du code concernant le serveur front/back. 
+
+- Première partie : [automa-playbooks](/fr/developers_documentation/automa-playbooks/index.html)
+- Deuxième partie : [automa-webui](/fr/developers_documentation/automa-webui/index.html)
