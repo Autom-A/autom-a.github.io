@@ -1,5 +1,5 @@
 ---
-title: "app.question.component"
+title: "app.question.component.js"
 date: 2023-12-05T03:01:10+01:00
 draft: false
 ---

@@ -11,7 +11,8 @@ defaultContentLanguage = "en"
     themeVariant = ["zen-light", "blue", "zen-dark"]
     themeVariantAuto = [ "zen-light", "zen-dark" ]
 
-    alwaysopen = true
+    alwaysopen = false
+    collapsibleMenu = true
     externalLinkTarget = "_blank"
     disableLandingPageButton = true
 

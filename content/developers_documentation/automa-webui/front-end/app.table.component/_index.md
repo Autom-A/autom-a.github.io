@@ -1,5 +1,5 @@
 ---
-title: "app.table.component"
+title: "app.table.component.js"
 date: 2023-12-05T03:08:25+01:00
 draft: false
 ---

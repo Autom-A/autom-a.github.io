@@ -1,5 +1,5 @@
 ---
-title: "app.selection.component"
+title: "app.selection.component.js"
 date: 2023-12-05T03:05:19+01:00
 draft: false
 ---
