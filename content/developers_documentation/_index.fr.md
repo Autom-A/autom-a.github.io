@@ -1,6 +1,6 @@
 +++
 archetype = "chapter"
-title = "2. Documentation Développeurs"
+title = "2. Documentation Développeur"
 weight = 2
 +++
 
