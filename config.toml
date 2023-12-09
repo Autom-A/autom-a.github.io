@@ -22,6 +22,10 @@ defaultContentLanguage = "en"
         shadow = false
 
 
+[module]
+[[module.imports]]  
+    path = "github.com/McShelby/hugo-theme-relearn"
+
 [menu]
     [[menu.shortcuts]]
         name = "<i class='fab fa-fw fa-github'></i>GitHub"
@@ -32,11 +36,6 @@ defaultContentLanguage = "en"
     home = ["HTML", "RSS", "PRINT", "SEARCH"]
     section = ["HTML", "RSS", "PRINT"]
     page = ["HTML", "RSS", "PRINT"]
-
-
-[module]
-    [[module.imports]]
-        path = 'github.com/McShelby/hugo-theme-relearn'
 
 [languages]
     [languages.en]

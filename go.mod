@@ -1,4 +1,4 @@
-module github.com/McShelby/hugo-theme-relearn.git
+module github.com/Autom-A/autom-a.github.io
 
 go 1.21.3
 
