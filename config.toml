@@ -5,10 +5,10 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 
 [params]
-    author.name = "Mijux"
+    author.name = "AutomA Team"
     description = "This wiki explains how to use AutomA software and how to contribute to it."
 
-    themeVariant = ["zen-light", "blue", "zen-dark"]
+    themeVariant = ["zen-light", "zen-dark"]
     themeVariantAuto = [ "zen-light", "zen-dark" ]
 
     alwaysopen = false
@@ -20,6 +20,7 @@ defaultContentLanguage = "en"
         border = false
         lightbox = true
         shadow = false
+
 
 [menu]
     [[menu.shortcuts]]

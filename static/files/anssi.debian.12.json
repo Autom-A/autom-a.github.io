@@ -1,0 +1,402 @@
+{
+    "R1": {
+        "applicable": "NO",
+        "testPlatform": "UNKNOW",
+        "status": "N/A"
+    },
+    "R2": {
+        "applicable": "NO",
+        "testPlatform": "UNKNOW",
+        "status": "N/A"
+    },
+    "R3": {
+        "applicable": "NO",
+        "testPlatform": "UNKNOW",
+        "status": "N/A"
+    },
+    "R4": {
+        "applicable": "NO",
+        "testPlatform": "UNKNOW",
+        "status": "N/A"
+    },
+    "R5": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R6": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R7": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R8": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R9": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R10": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R11": {
+        "applicable": "YES",
+        "testPlatform": "VM",
+        "status": "DONE"
+    },
+    "R12": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R13": {
+        "applicable": "YES",
+        "testPlatform": "VM",
+        "status": "DONE"
+    },
+    "R14": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R15": {
+        "applicable": "UNKNOW",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R16": {
+        "applicable": "UNKNOW",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R17": {
+        "applicable": "UNKNOW",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R18": {
+        "applicable": "UNKNOW",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R19": {
+        "applicable": "UNKNOW",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R20": {
+        "applicable": "UNKNOW",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R21": {
+        "applicable": "UNKNOW",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R22": {
+        "applicable": "UNKNOW",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R23": {
+        "applicable": "UNKNOW",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R24": {
+        "applicable": "UNKNOW",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R25": {
+        "applicable": "UNKNOW",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R26": {
+        "applicable": "UNKNOW",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R27": {
+        "applicable": "UNKNOW",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R28": {
+        "applicable": "NO",
+        "testPlatform": "UNKNOW",
+        "status": "N/A"
+    },
+    "R29": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R30": {
+        "applicable": "YES",
+        "testPlatform": "DOCKER",
+        "status": "DONE"
+    },
+    "R31": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "IN PROGRESS"
+    },
+    "R32": {
+        "applicable": "YES",
+        "testPlatform": "DOCKER",
+        "status": "DONE"
+    },
+    "R33": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R34": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R35": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R36": {
+        "applicable": "YES",
+        "testPlatform": "DOCKER",
+        "status": "DONE"
+    },
+    "R37": {
+        "applicable": "UNKNOW",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R38": {
+        "applicable": "YES",
+        "testPlatform": "DOCKER",
+        "status": "DONE"
+    },
+    "R39": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R40": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R41": {
+        "applicable": "UNKNOW",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R42": {
+        "applicable": "UNKNOW",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R43": {
+        "applicable": "UNKNOW",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R44": {
+        "applicable": "UNKNOW",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R45": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R46": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R47": {
+        "applicable": "UNKNOW",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R48": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R49": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R50": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R51": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R52": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R53": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R54": {
+        "applicable": "YES",
+        "testPlatform": "DOCKER",
+        "status": "DONE"
+    },
+    "R55": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R56": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R57": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R58": {
+        "applicable": "UNKNOW",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R59": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R60": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R61": {
+        "applicable": "YES",
+        "testPlatform": "DOCKER",
+        "status": "DONE"
+    },
+    "R62": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R63": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R64": {
+        "applicable": "NO",
+        "testPlatform": "UNKNOW",
+        "status": "N/A"
+    },
+    "R65": {
+        "applicable": "NO",
+        "testPlatform": "UNKNOW",
+        "status": "N/A"
+    },
+    "R66": {
+        "applicable": "NO",
+        "testPlatform": "UNKNOW",
+        "status": "N/A"
+    },
+    "R67": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R68": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R69": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R70": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R71": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R72": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R73": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R74": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R75": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R76": {
+        "applicable": "NO",
+        "testPlatform": "UNKNOW",
+        "status": "N/A"
+    },
+    "R77": {
+        "applicable": "NO",
+        "testPlatform": "UNKNOW",
+        "status": "N/A"
+    },
+    "R78": {
+        "applicable": "NO",
+        "testPlatform": "UNKNOW",
+        "status": "N/A"
+    },
+    "R79": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    },
+    "R80": {
+        "applicable": "YES",
+        "testPlatform": "UNKNOW",
+        "status": "TODO"
+    }
+}
