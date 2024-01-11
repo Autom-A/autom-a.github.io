@@ -40,6 +40,10 @@ Here is an example configuration:
 
 ![Host Inventory Tab](/images/user_guide/getting_started/host-inventory-exemple.png)
 
+You can also modify every fields by clicking on it : 
+
+![Host Inventory Tab](/images/user_guide/getting_started/host-inventory-modif.png)
+
 ## Generating actions
 
 In the `HARDENING ACTION` tab, a list of hardening actions is available. These rules are classified according to :

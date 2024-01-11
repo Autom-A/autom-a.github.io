@@ -40,6 +40,10 @@ Ci-dessous, voici un exemple de configuration :
 
 ![Host Inventory Tab](/images/user_guide/getting_started/host-inventory-exemple.png)
 
+Il est possible de modifier les champs en cliquant dessus directement : 
+
+![Host Inventory Tab](/images/user_guide/getting_started/host-inventory-modif.png)
+
 ## Génération des actions
 
 Dans l'onglet `HARDENING ACTION`, une liste d'actions de durcissement est disponible. Ces règles sont classées selon :
