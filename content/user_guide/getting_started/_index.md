@@ -85,3 +85,7 @@ Here, we have selected `monthly`:
 Once the configuration is complete, the user must generate his configuration by clicking on the `GENERATE` button.
 
 Then press the `RUN` button to launch the rules on the configured machines. Alternatively, click on the arrow to display the `DOWNLOAD` button, enabling you to retrieve all files for manual launch.
+
+This allows us to observe the execution of playbooks and actions by generating logs directly on the interface :
+
+![Log View](/images/user_guide/getting_started/log-view.png)

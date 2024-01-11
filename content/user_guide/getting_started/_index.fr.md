@@ -85,3 +85,7 @@ Ici nous avons choisi `monthly` :
 Une fois que la configuration est terminée, l'utilisateur doit générer sa configuration en cliquant sur le bouton `GENERATE`.
 
 Il est ainsi possible de lancer les règles sur les machines configurées en appuyant sur le bouton `RUN`. Il est aussi possible de cliquer sur la flèche pour afficher le bouton `DOWNLOAD`, vous permettant alors de récupérer l'ensemble des fichiers pour les lancer manuellement.
+
+Nous pouvons ainsi observer l'exécution des playbooks et des actions grâce à la génération de logs directement sur l'interface :
+
+![Log View](/images/user_guide/getting_started/log-view.png)
