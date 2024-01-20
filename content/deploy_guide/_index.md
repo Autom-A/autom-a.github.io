@@ -43,7 +43,7 @@ The project needs some python3 dependencies:
 
 To download them, run the following command:
 ```bash
-pip3 install -r requirement
+pip3 install -r requirements.txt
 ```
 
 ### Etape 4 - Run the project
