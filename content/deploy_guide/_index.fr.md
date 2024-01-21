@@ -43,7 +43,7 @@ Le projet a besoin de quelques dépendances python3 :
 
 Pour les télécharger, exécutez la commande suivante :
 ```bash
-pip3 install -r requirement
+pip3 install -r requirements.txt
 ```
 
 ### Etape 4 - Lancer le projet
